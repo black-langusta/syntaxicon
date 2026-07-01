@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome to Syntaxicon!
 published: true
-date: 2026-07-01T22:52:51.120Z
+date: 2026-07-01T22:52:57.441Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-01T17:06:13.078Z
@@ -19,6 +19,7 @@ It is a place where you can:
 - :brain: **Hack** and design your own.
 - :heart: **Share** knowledge with the community.
 
+## What are the prerequisites ?
 
 - You know **how to program**.
 - You can **learn by yourself** when needed.
