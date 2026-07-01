@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome to Syntaxicon!
 published: true
-date: 2026-07-01T22:53:55.678Z
+date: 2026-07-01T22:55:33.275Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-01T17:06:13.078Z
