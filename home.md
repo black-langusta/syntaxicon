@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome to Syntaxicon!
 published: true
-date: 2026-07-01T22:37:23.434Z
+date: 2026-07-01T22:40:25.201Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-01T17:06:13.078Z
@@ -16,7 +16,7 @@ Syntaxicon is a wiki about programming language design and development.
 
 It is a place where you can:
 - :book: **Learn** how to build programming languages.
-- :brain: **Hack** them with creativity.
+- :brain: **Hack** and design your own.
 - :heart: **Share** knowledge with the community.
 
 ## Where to start ?
