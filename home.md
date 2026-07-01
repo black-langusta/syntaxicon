@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome to Syntaxicon!
 published: true
-date: 2026-07-01T22:31:56.500Z
+date: 2026-07-01T22:35:19.910Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-01T17:06:13.078Z
@@ -15,18 +15,19 @@ dateCreated: 2026-07-01T17:06:13.078Z
 Syntaxicon is a wiki about programming language design and development.
 
 It is a place where you can:
-- **Learn** how to build programming languages
-- **Hack** them and be creative
-- **Share** knowledge with the community
+- :book: **Learn** how to build programming languages.
+- :brain: **Hack** them with creativity.
+- :heart: **Share** knowledge with the community.
 
 ## How to contribute ?
 
 If you want to contribute to the Syntaxicon project, please send me an email.
 
-:email: contact [at] syntaxicon [dot] com.
+- :email: contact [at] syntaxicon [dot] com.
 
 ## Is Syntaxicon open source ?
 
-Well, yes. All the wiki is released under the **CC-BY-SA** license. 
+Well, yes. :smile:
 
-The programs distriburted on github is available under the **MIT** license.
+- All the articles are released under the **CC-BY-SA** license. 
+- The programs distributed on github are available under the **MIT** license.
