@@ -2,13 +2,13 @@
 title: Welcome
 description: Welcome to Syntaxicon!
 published: true
-date: 2026-07-01T22:18:40.307Z
+date: 2026-07-01T22:19:04.738Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-01T17:06:13.078Z
 ---
 
-# Syntaxicon project
+# Syntaxicon Project
 
 ## What is syntaxicon ?
 
