@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome to Syntaxicon!
 published: true
-date: 2026-07-01T22:35:19.910Z
+date: 2026-07-01T22:37:23.434Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-01T17:06:13.078Z
@@ -18,6 +18,8 @@ It is a place where you can:
 - :book: **Learn** how to build programming languages.
 - :brain: **Hack** them with creativity.
 - :heart: **Share** knowledge with the community.
+
+## Where to start ?
 
 ## How to contribute ?
 
