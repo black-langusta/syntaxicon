@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome to Syntaxicon!
 published: true
-date: 2026-07-01T22:52:57.441Z
+date: 2026-07-01T22:53:55.678Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-01T17:06:13.078Z
@@ -10,7 +10,7 @@ dateCreated: 2026-07-01T17:06:13.078Z
 
 # Syntaxicon Project
 
-## What is Syntaxicon ?
+## What is Syntaxicon?
 
 Syntaxicon is a **wiki about programming language** design and development.
 
@@ -19,7 +19,7 @@ It is a place where you can:
 - :brain: **Hack** and design your own.
 - :heart: **Share** knowledge with the community.
 
-## What are the prerequisites ?
+## What are the prerequisites?
 
 - You know **how to program**.
 - You can **learn by yourself** when needed.
@@ -29,13 +29,13 @@ It is a place where you can:
 > {.is-info}
 
 
-## How to contribute ?
+## How to contribute?
 
 If you want to contribute to the Syntaxicon project, please send me an email.
 
 - :email: contact [at] syntaxicon [dot] com.
 
-## Is Syntaxicon open source ?
+## Is Syntaxicon open source?
 
 Well, yes. :smile:
 
