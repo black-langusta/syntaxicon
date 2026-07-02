@@ -2,7 +2,7 @@
 title: Syntaxicon
 description: Design and development of programming languages.
 published: true
-date: 2026-07-02T17:30:08.477Z
+date: 2026-07-02T17:44:10.887Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-01T17:06:13.078Z
@@ -28,7 +28,17 @@ It is a place where you can:
 
 ## Where to start?
 
-*New to language programming?* You can start by reading the [quick start](/quick-start) page. Then, choose a [guide](/guides) and follow it.
+**New to language programming?** You can start by reading the [quick start](/quick-start) page. Then, choose a [guide](/guides) based on the following difficulty notations :
+
+| Difficulty | Description | Notation
+|--|--|--|
+|Easy|No new notion| :star:
+|Normal|Need deduction| :star: :star:
+|Hard|Need creativity| :star: :star: :star:
+
+**If you need help**, read some specialized [articles](/articles). They are based on [theory](/theory) and [design](/design) notions.
+
+If you want to **explore further**, consult the [reference](/references).
 
 ## How to contribute?
 
