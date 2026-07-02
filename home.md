@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome to Syntaxicon!
 published: true
-date: 2026-07-02T17:04:44.266Z
+date: 2026-07-02T17:05:41.360Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-01T17:06:13.078Z
@@ -30,7 +30,7 @@ It is a place where you can:
 
 ## Where to start?
 
-*Ready to learn ?* **Start [HERE](/quick-start)!**
+*Ready to learn ?* __**Start [HERE](/quick-start)**__
 
 ## How to contribute?
 
