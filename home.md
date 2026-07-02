@@ -2,7 +2,7 @@
 title: Syntaxicon
 description: Design and development of programming languages.
 published: true
-date: 2026-07-02T17:27:07.135Z
+date: 2026-07-02T17:27:42.953Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-01T17:06:13.078Z
@@ -28,7 +28,7 @@ It is a place where you can:
 
 ## Where to start?
 
-New to language programming? 
+*New to language programming?* 
 
 ## How to contribute?
 
