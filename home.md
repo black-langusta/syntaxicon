@@ -1,8 +1,8 @@
 ---
-title: Welcome to syntaxicon
+title: Syntaxicon
 description: Design and development of programming languages.
 published: true
-date: 2026-07-02T17:15:16.722Z
+date: 2026-07-02T17:15:29.902Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-01T17:06:13.078Z
