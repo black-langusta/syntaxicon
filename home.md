@@ -1,8 +1,8 @@
 ---
-title: Welcome
-description: Welcome to Syntaxicon!
+title: The syntaxicon project
+description: Homepage
 published: true
-date: 2026-07-02T17:05:41.360Z
+date: 2026-07-02T17:06:30.195Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-01T17:06:13.078Z
