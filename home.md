@@ -1,8 +1,8 @@
 ---
 title: The Syntaxicon Project
-description: Programming language design and implementation
+description: programming language design and implementation
 published: true
-date: 2026-07-02T17:09:26.659Z
+date: 2026-07-02T17:09:46.118Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-01T17:06:13.078Z
