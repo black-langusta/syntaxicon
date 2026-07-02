@@ -1,8 +1,8 @@
 ---
-title: The syntaxicon project
+title: The Syntaxicon Project
 description: Homepage
 published: true
-date: 2026-07-02T17:07:07.098Z
+date: 2026-07-02T17:07:40.178Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-01T17:06:13.078Z
