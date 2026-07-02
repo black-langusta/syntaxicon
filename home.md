@@ -2,7 +2,7 @@
 title: Syntaxicon
 description: Design and development of programming languages.
 published: true
-date: 2026-07-02T17:55:33.464Z
+date: 2026-07-02T18:19:15.998Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-01T17:06:13.078Z
