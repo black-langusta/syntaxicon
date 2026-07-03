@@ -2,7 +2,7 @@
 title: Articles
 description: 
 published: true
-date: 2026-07-03T13:00:34.587Z
+date: 2026-07-03T13:05:25.479Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-02T16:02:10.317Z
@@ -11,18 +11,38 @@ dateCreated: 2026-07-02T16:02:10.317Z
 > Work in progress
 {.is-warning}
 
-## Lexer
+## Design
 
-- scaning plain text from scratch in python 
-- scaning plain text using ocamllex 
+### Type system
 
-## Parser
+- Static vs dynamic types
+- Strong vs weak types
 
-- recursive descente parsers
+### Paradigms
+
+- Functional languages
+- Imperative object oriented design
+- Prototype based languages
+
+## Front-end
+### Lexer
+
+- Scaning plain text from scratch in python 
+- Scaning plain text using ocamllex in OCaml 
+
+### Parser
+
+- Recursive descente parsers
 - Pratt parsers
+- Build the AST using Menhir in OCaml
 
-## Evaluator
+## Backend
 
-## Compiler
+### Interpretor
 
-## Stack based VM
+- A simple tree walk interpreter
+
+### Compiler
+
+- Stack based VM
+- Register based VM
