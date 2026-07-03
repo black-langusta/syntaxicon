@@ -2,7 +2,7 @@
 title: Articles
 description: 
 published: true
-date: 2026-07-02T17:18:50.409Z
+date: 2026-07-03T12:34:22.322Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-02T16:02:10.317Z
@@ -10,3 +10,11 @@ dateCreated: 2026-07-02T16:02:10.317Z
 
 > Work in progress
 {.is-warning}
+
+## Lexer
+
+## Parser
+
+## Evaluator
+
+## Compiler
