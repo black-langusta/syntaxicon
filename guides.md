@@ -2,7 +2,7 @@
 title: Guides
 description: 
 published: true
-date: 2026-07-03T12:55:02.490Z
+date: 2026-07-08T10:01:10.459Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-02T16:03:32.970Z
@@ -11,7 +11,7 @@ dateCreated: 2026-07-02T16:03:32.970Z
 > Work in progress
 {.is-warning}
 
-- Build a calculator in python
+- [Build a calculator in python](/guides/python-calc)
 - Build a Brainfuck interpreter in python
 - Build a Scheme-like interpreter in C++
 - Build a BASIC-like interpreter in C++
