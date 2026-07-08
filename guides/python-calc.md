@@ -2,37 +2,42 @@
 title: A simple python calculator
 description: Build a basic calculator from scratch  using the Python programing language
 published: true
-date: 2026-07-08T09:47:24.416Z
+date: 2026-07-08T10:00:22.355Z
 tags: lexer, parser, evaluator, python
 editor: markdown
 dateCreated: 2026-07-08T09:43:52.820Z
 ---
 
-# A calculator from scratch in Python
+# A calculator from scratch in Python :star:
 
-## Context
+## Introduction
 
-### Calculator features
-
+### What we are going to build
 ### Why Python?
-
 ### Why from scratch?
 
-## Methods and tools
-
-### Architecture
-
-#### The lexer
-#### The parser
-#### The evaluator
-
-### Understanding the data flow
-
-#### Tokens
-#### AST nodes
 
 ## Step by step implementation
 
-## Results and discussion
+### Designing the grammar
+#### What are formal grammars ?
+#### Precedence and associativity
+#### Calculator grammar
+
+### Understanding the data flow
+#### Source code
+#### Tokens
+#### AST nodes
+#### Values
+
+### Architecture
+#### The lexer
+#### The recursive descendant parser
+#### The evaluator
+
+## Conclusion
+### Limits of our calculator
+### Performance of the evaluator model
+### Python lexer and parser libraries
 
 ## Going further
