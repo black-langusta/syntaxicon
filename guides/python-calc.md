@@ -2,7 +2,7 @@
 title: A simple python calculator
 description: Build a basic calculator from scratch  using the Python programing language
 published: true
-date: 2026-07-08T10:00:22.355Z
+date: 2026-07-08T10:02:10.754Z
 tags: lexer, parser, evaluator, python
 editor: markdown
 dateCreated: 2026-07-08T09:43:52.820Z
@@ -20,7 +20,7 @@ dateCreated: 2026-07-08T09:43:52.820Z
 ## Step by step implementation
 
 ### Designing the grammar
-#### What are formal grammars ?
+#### What are formal grammars?
 #### Precedence and associativity
 #### Calculator grammar
 
