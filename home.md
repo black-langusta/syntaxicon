@@ -2,7 +2,7 @@
 title: Syntaxicon
 description: Design and development of programming languages.
 published: true
-date: 2026-07-10T16:33:38.614Z
+date: 2026-07-10T16:33:59.416Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-01T17:06:13.078Z
@@ -15,7 +15,7 @@ Syntaxicon is a **wiki about programming language** design and development.
 It is a place where you can:
 - :computer: **Learn** how to build a programming language.
 - :brain: **Hack** and design your own language.
-- :heart: **Share** knowledge with the community.
+- :heart: **Share** your knowledge with the community.
 
 ## What are the prerequisites?
 
