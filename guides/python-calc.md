@@ -2,7 +2,7 @@
 title: A simple python calculator
 description: Build a basic calculator from scratch  using the Python programing language
 published: true
-date: 2026-07-10T21:47:00.888Z
+date: 2026-07-10T21:50:35.736Z
 tags: lexer, parser, evaluator, python
 editor: markdown
 dateCreated: 2026-07-08T09:43:52.820Z
@@ -10,20 +10,18 @@ dateCreated: 2026-07-08T09:43:52.820Z
 
 # A calculator from scratch in Python
 
-## Goals
+## What you will learn
 
-## The calc language
+## Introducing the calc language
 
-## Reading calc programs
+## Project setup
 
-## Tokens
+## Architecture overview
 
-## Abstract syntaxic tree (AST)
+## A lexer to scan plain text
 
-## Lexer
+## A parser to build the AST
 
-## An AST builder
-
-## An AST interpreter
+## An interpreter to compute values
 
 ## A REPL for the calc language
