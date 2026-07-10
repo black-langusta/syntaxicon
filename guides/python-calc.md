@@ -2,7 +2,7 @@
 title: A simple python calculator
 description: Build a basic calculator from scratch  using the Python programing language
 published: true
-date: 2026-07-10T22:15:30.820Z
+date: 2026-07-10T22:16:55.325Z
 tags: lexer, parser, evaluator, python
 editor: markdown
 dateCreated: 2026-07-08T09:43:52.820Z
@@ -36,7 +36,7 @@ dateCreated: 2026-07-08T09:43:52.820Z
 
 ### A parser to build the AST
 
-### An interpreter to evaluate expressions
+### A calc-lang interpreter
  
 ### Adding a REPL
 
